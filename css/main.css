@@ -132,7 +132,7 @@ input {
     background-color: var(--color-bg);
 }
 
-.--hover:hover {
+.link--hover:hover {
     background-color: var(--color-red);
     color: var(--color-white);
     border: 1px solid var(--color-white);
