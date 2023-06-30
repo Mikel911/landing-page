@@ -740,7 +740,7 @@ input {
 /*Media queries*/
 
 /*tablet 768px*/
-@media screen and (max-device-width: 767.98px) {
+@media screen and (max-device-width: 768px) {
     :root {
         --h2-fonts: 700 30px/35px var(--pt-sans-fonts);
         --subtitle-fonts: 400 17px/20px var(--playfair-display-fonts);
@@ -848,8 +848,8 @@ input {
     }
 }
 
-/*Phone 425px*/
-@media screen and (max-device-width: 424.98px) {
+/*Phone 576px*/
+@media screen and (max-device-width: 576px) {
     :root {
         --title-fonts: 900 41px/80px var(--playfair-display-fonts);
         --h2-fonts: 700 22px/26px var(--pt-sans-fonts);
